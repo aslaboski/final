@@ -1,0 +1,21 @@
+
+#title{
+  font-size: 36px;
+  margin-top: 0;
+}
+#subtitle {
+  font-size: 20px;
+  margin-top:0;
+  margin-bottom: 20px;
+}
+.jumbotron {
+  background: url(Oahu.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:  center;
+}
+#adam {
+	border-style: solid;
+  border-width:  thin;
+  border-color: gray;
+}

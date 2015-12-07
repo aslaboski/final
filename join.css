@@ -1,0 +1,14 @@
+.jumbotron {
+  background: url(surfboards4.jpg);
+  background-repeat: repeat-x;
+  background-size: contain;
+  background-position: center;
+}
+
+#login {
+  margin-top: 10px;
+}
+
+#joinbtn {
+  margin-top: 10px;
+}
